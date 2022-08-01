@@ -8,3 +8,6 @@ class usuarios {
 }
 
 export default usuarios
+
+const usuario1 = new usuarios ('1', 'Isadora Araújo', 'isadora@email.com', '12345678')
+console.log(usuario1)
